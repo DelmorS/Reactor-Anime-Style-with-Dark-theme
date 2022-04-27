@@ -1,3 +1,13 @@
+/* ==UserStyle==
+@name			Reactor and Joyreactor.cc Anime Style (with Dark theme)
+@namespace		github.com/openstyles/stylus
+@version		1.0.1
+@description	Аниме-стиль для reactor.cc и joyreactor.cc, а также всех его разделов и подразделов - anime.reactor.cc итд. Возможность выбрать темную/прозрачную тему (Также работает с reactor.com, joyreactor.com)
+@author			Delmor_S
+]
+@preprocessor   stylus
+==/UserStyle== */
+
 @-moz-document domain("reactor.cc"), domain("joyreactor.cc"), domain("reactor.com"), domain("fapreactor.com") {
 	
 	:root {
